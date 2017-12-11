@@ -1,0 +1,6 @@
+.idea
+/_temp
+/outputs/
+/docs/
+/src/tmp/*.html
+/src/tmp/*.txt
